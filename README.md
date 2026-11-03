@@ -1,3 +1,5 @@
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=RukiDV_connect_sonarqube_claude&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=RukiDV_connect_sonarqube_claude)
+
 # Connect SonarQube Cloud
 
 (difficulty: 🔥)
